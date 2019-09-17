@@ -1,2 +1,2 @@
 # dynamic-form
-Dynamic Angular2+ form
+Dynamic form for Angular2+
